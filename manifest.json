@@ -36,9 +36,9 @@
    "src": "misc/icon64.png"
   }
  ],
- "start_url": "index.htm?installed=true",
  "name": "TH Residencial Flavan",
- "theme_color": "#05447C",
  "display": "fullscreen",
- "background_color": "#05447C"
+ "start_url": "index.htm?installed=true",
+ "background_color": "#05447C",
+ "theme_color": "#05447C"
 }
